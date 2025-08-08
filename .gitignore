@@ -1,0 +1,12 @@
+# Ignore system files
+*.log
+*.tmp
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
